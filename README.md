@@ -1,6 +1,6 @@
-# sugargen
+# Sugargen
 Vanity address generator for sugarchain
-# usage
+# Usage
 ```
 node sugargen.js [prefix/-pf {prefix file}] [option(s)]
 ```
